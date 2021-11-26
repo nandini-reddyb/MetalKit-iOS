@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "946A97D4-4D7B-4A31-AE67-D445661A21B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1BE6286-1E55-4E42-8002-508F69DC8AE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "metalproject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42B7A652-7953-47C8-9D8D-2A19AD5712D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "metalproject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D440B3DC-9865-42B0-B2D8-9D54C13E0388"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "metalproject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D440B3DC-9865-42B0-B2D8-9D54C13E0388 - 2521f6a4efc14860"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; metalproject.ViewController"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1002">
+               </Location>
+               <Location
+                  uuid = "D440B3DC-9865-42B0-B2D8-9D54C13E0388 - 1d4e4e232e63fd5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;metalproject.ViewController&gt;"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "946">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "896DD523-7381-4051-9402-F083E9F3B485"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "metalproject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "896DD523-7381-4051-9402-F083E9F3B485 - afa901aa0e73a0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.commandQueue.getter : Swift.Optional&lt;__C.MTLCommandQueue&gt;"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "896DD523-7381-4051-9402-F083E9F3B485 - 421424cff619a4e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.commandQueue.setter : Swift.Optional&lt;__C.MTLCommandQueue&gt;"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "896DD523-7381-4051-9402-F083E9F3B485 - 54409e12e3083f1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.commandQueue.modify : Swift.Optional&lt;__C.MTLCommandQueue&gt;"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "896DD523-7381-4051-9402-F083E9F3B485 - 8bec274de87a4825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.commandQueue.modify : Swift.Optional&lt;__C.MTLCommandQueue&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "896DD523-7381-4051-9402-F083E9F3B485 - 2521f6a4efc1481d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; metalproject.ViewController"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "974">
+               </Location>
+               <Location
+                  uuid = "896DD523-7381-4051-9402-F083E9F3B485 - 1d4e4e232e63fd27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "metalproject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;metalproject.ViewController&gt;"
+                  moduleName = "metalproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinib/Desktop/METAL%202D/metalproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "918">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
